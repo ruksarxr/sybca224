@@ -12,7 +12,7 @@ public class Democlass {
 		System.out.println("branch");
 	}
 	
-	void display1() {
+	void display2() {
 		System.out.println("github Brancch");
 	}
 
