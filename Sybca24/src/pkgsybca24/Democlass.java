@@ -11,5 +11,9 @@ public class Democlass {
 	void display() {
 		System.out.println("branch");
 	}
+	
+	void display1() {
+		System.out.println("github Brancch");
+	}
 
 }
